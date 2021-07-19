@@ -4,6 +4,8 @@
 #define LED_PIN  A1 
 #define PERIOD 6
 
+// Alon is the king
+
 void setup() 
 {
   Serial.begin(9600);
